@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+	<t t-name="gmap_view" >
+		<div name="gmap" style="padding-top: 100%;" />
+	</t>
+</template>

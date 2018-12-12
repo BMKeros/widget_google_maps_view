@@ -1,0 +1,8 @@
+.map_overlay {
+    position: absolute;
+    display: none;
+    opacity: 0.9;
+    border: 2px solid black;
+    z-index: 3000;
+    padding: 5px 0;
+}
