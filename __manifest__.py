@@ -9,7 +9,8 @@
         'web'
     ],
     'data': [
-        'views/widget_google_maps_assets.xml'
+        'views/widget_google_maps_assets.xml',
+        'views/res_config_views.xml'
     ],
     'qweb': [
         'static/src/xml/resource.xml'
