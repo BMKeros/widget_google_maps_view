@@ -6,6 +6,7 @@
     'license': '',
     'category': 'Odoo  widgets',
     'depends': [
+        'base_setup'
         'web'
     ],
     'data': [

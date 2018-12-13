@@ -8,7 +8,7 @@ odoo.define('widget_google_maps_view', function (require) {
     var GMapView = Widget.extend({
         template: "gmap_view",
 
-        init: function() {
+        init: function(parent, action) {
             this._super.apply(this, arguments);
 
             this.mode = arguments[0].mode || 'readonly';
